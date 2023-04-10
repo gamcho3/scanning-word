@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875077899707",
+    "project_id": "scanning-word",
+    "storage_bucket": "scanning-word.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875077899707:android:e0ffb95e0491ee169da09e",
+        "android_client_info": {
+          "package_name": "com.example.scanning_word"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875077899707-t00s1086jhcm5os90a0jqnso16fvmjgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqIaS5MafsEYSvr7xTgQYuDkRRVCwjFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875077899707-t00s1086jhcm5os90a0jqnso16fvmjgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
